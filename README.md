@@ -1,1 +1,1 @@
-A very small project connecting a PostgreSQL database to an express back end with a react front end
+A very small project connecting a PostgreSQL database to an Express back end with a React front end
